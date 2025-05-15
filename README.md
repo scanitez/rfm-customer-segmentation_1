@@ -13,7 +13,6 @@ The goal is to categorize customers into meaningful segments for targeted market
 
 ## How to Use
 
-### 1. Clone the repository
+### 1. Streamlit Link
 ```bash
-git clone https://github.com/scanitez/rfm-customer-segmentation.git
-cd rfm-customer-segmentation
+https://rfm-customer-segmentation1-c7hjjonhr22dhkcqruap86.streamlit.app/
